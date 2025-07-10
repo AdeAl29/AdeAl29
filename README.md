@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on:  <br>Aplikasi Android "Pelor" berbasis Jetpack Compose dengan fitur profil, XP/level, dan peta interaktif<br><br>👯 I’m looking to collaborate on:  <br>Proyek open-source Android atau backend lokal dengan Room/Firebase.<br><br>🤝 I’m looking for help with:  <br>Implementasi fitur realtime dengan Firebase dan optimasi UI/UX.<br><br>🌱 I’m currently learning:  <br>Jetpack Compose, Firebase Authentication, dan UI desain <br><br>💬 Ask me about:  <br>Android Development, UI Jetpack Compose, atau pengalaman belajar lewat proyek mandiri.<br><br>⚡ Fun fact:  <br>Saya suka ngoding sambil dengerin soundtrack anime favorit 😁<br>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@adealrizal99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ade-alrizal-715899345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adealrizal19@gmail.com) 
 
