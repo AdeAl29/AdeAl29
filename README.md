@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ade Alrizal</h1>
-<h3 align="center">Mobile & Backend Developer | Kotlin • Flutter • FastAPI</h3>
+<h3 align="center">Mobile & Web Developer | Flutter • Kotlin • Web Tech</h3>
 
 <p align="center">
   <a href="https://instagram.com/adealrizal99">
@@ -16,25 +16,27 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Informatics Student  
-- 📱 Focused on **Mobile Development** & **Backend API**
-- 🔥 Interested in scalable apps & clean architecture
-- 🚀 Currently sharpening **Kotlin, Flutter, FastAPI**
+- 🎓 Informatics Student
+- 📱 **Mobile Development** enthusiast
+- 🌐 Exploring **Web Development**
+- 🎨 Interested in clean UI/UX & user-focused apps
+- 🚀 Currently improving **Flutter & Kotlin**
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### Frameworks & Tools
+### Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Tools
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
 ---
