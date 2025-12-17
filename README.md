@@ -2,7 +2,7 @@
 <h3 align="center">Mobile & Web Developer | Flutter • Kotlin • Web Tech</h3>
 
 <p align="center">
-  <a href="https://instagram.com/adealrizal99">
+  <a href="https://www.instagram.com/adeal29_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/ade-alrizal-715899345">
@@ -17,9 +17,9 @@
 
 ## 👨‍💻 About Me
 - 🎓 Informatics Student
-- 📱 **Mobile Development** enthusiast
-- 🌐 Exploring **Web Development**
-- 🎨 Interested in clean UI/UX & user-focused apps
+- 📱 Focused on **Mobile Development**
+- 🌐 Learning & building **Web Applications**
+- 🎨 UI/UX aware developer
 - 🚀 Currently improving **Flutter & Kotlin**
 
 ---
